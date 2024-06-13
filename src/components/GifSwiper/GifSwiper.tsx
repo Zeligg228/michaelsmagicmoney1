@@ -43,7 +43,7 @@ const GifSwiper = () => {
           phase="Phase 1"
           title="Foundation and Launch"
           descr={`
-              - Launch a top-notch, user-friendly website for all things $PAPER.
+              - Launch a top–notch, user–friendly website for all things $PAPER.
               - Integrate a swap feature for easy $PAPER and crypto trades.
           `}
           gif={Gif7}
