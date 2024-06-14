@@ -8,17 +8,18 @@
   overflow: auto;
   background-color: rgb(0,0,0);
   background-color: rgba(0,0,0,0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
   &::-webkit-scrollbar {
     display: none;
   }
   &__content {
     background-color: #fefefe;
-    margin: 20px auto; 
     padding: 20px;
     border: 1px solid #888;
     width: 90%;
     height: 100%;
-    min-height: 800px;
   }
   &__close {
     color: #aaa;
